@@ -22,6 +22,9 @@ public class LogTest {
 		 logger.error("2222",e);
 		 
 		 
+		 
+		 
+		 
 		 try{
 			 throw new Exception("!!!Error!!!");
 		}catch(Exception ee){
